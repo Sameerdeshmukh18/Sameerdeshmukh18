@@ -9,7 +9,8 @@
 - [Tkiosk](https://tkiosk.live)
 - [ChessMateOnline](https://chess-mate-online.vercel.app/)
 <!-- BLOG-POST-LIST:END -->
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sameerdeshmukh18&show_icons=true&locale=en&layout=compact" alt="Sameerdeshmukh18" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sameerdeshmukh18&show_icons=true&locale=en" alt="Sameerdeshmukh18" /></p>
 <!-- Connect-with-me:START -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,8 +19,7 @@
 </p>
 <!-- Connect-with-me:END -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sameerdeshmukh18&show_icons=true&locale=en&layout=compact" alt="Sameerdeshmukh18" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sameerdeshmukh18&show_icons=true&locale=en" alt="Sameerdeshmukh18" /></p>
+
 <!---
 Sameerdeshmukh18/Sameerdeshmukh18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
